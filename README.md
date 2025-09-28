@@ -9,6 +9,10 @@ Goal : To Equip Bharat Herald leadership with actionable insights to stabilize p
 ### 🔗 [Download Dashboard](https://github.com/AishwaryaPrabhakaran/Media-Survival-Analysis/blob/main/Media%20Analysis%20Dashboard.pbix)
 
 ---
+## 📊 Presentaiton Link
+### 🔗 [Watch this Youtube Video](https://youtu.be/XGazyITEnNo)
+
+---
 
 ### 1️⃣ Bharat Herald's Business Overview
 
